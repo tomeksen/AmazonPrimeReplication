@@ -1,0 +1,11 @@
+.mainContainerHome{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 99vh;
+    background-color: #00050D;
+}
+body {
+    margin: 0;
+}
